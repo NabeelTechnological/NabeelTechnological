@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Roblox_Studio_Logo.png" width="50" alt="Roblox Studio"/>
+  <img src="https://static.wikia.nocookie.net/roblox/images/e/e1/Roblox_Studio_2025_Logo.png/revision/latest?cb=20250503032303" width="50" alt="Roblox Studio"/>
 </p>
 
 ---
