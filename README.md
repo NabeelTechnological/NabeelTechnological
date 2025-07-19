@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://www.tiktok.com/@cidukmerahh" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40cidukmerahh-black?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="mailto:alif.nabil@example.com"><img src="https://img.shields.io/badge/Email-alif.nabil@example.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:modevilstar@gmail.com"><img src="https://img.shields.io/badge/Email-modevilstar@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
